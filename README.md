@@ -1,3 +1,4 @@
+[![Python Calculator CI](https://github.com/Malika010/first-project/actions/workflows/main.yml/badge.svg)](https://github.com/Malika010/first-project/actions/workflows/main.yml)
 # first-project
 A simple calculator app built with Python that can:
 - Add two numbers
