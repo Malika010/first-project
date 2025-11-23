@@ -18,6 +18,9 @@ print("Result" , subtract(num1,  num2))
 elif operation == '*':
 print("Result" . multiply(num1, num2))
 elif operation == '/':
+if num2 != 0:
 print("Result" , divide(num1, num2))
+else:
+  print("Error: Cannot divide by zero")
 else:
 print("Invalid opertaion")
